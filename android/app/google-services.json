@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "789302286158",
+    "project_id": "anonymousfoodie-c1074",
+    "storage_bucket": "anonymousfoodie-c1074.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789302286158:android:8cba40b3a5cf858218b01f",
+        "android_client_info": {
+          "package_name": "com.anonymous.foodie"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkz0fg6Qf6MZKfgoXVAQ0SUMQrk4CLw-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
